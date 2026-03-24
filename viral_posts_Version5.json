@@ -1,0 +1,22 @@
+[
+  {
+    "trend": "Breaking News",
+    "text": "Major breaking news story trending globally right now...",
+    "likes": 8500,
+    "retweets": 3200,
+    "replies": 1900,
+    "date": "2026-03-24T10:00:00+00:00",
+    "score": 625.30,
+    "url": "https://twitter.com/example/1"
+  },
+  {
+    "trend": "AI",
+    "text": "New AI breakthrough: Model achieves unprecedented results...",
+    "likes": 5200,
+    "retweets": 2100,
+    "replies": 1400,
+    "date": "2026-03-24T09:55:00+00:00",
+    "score": 485.75,
+    "url": "https://twitter.com/example/2"
+  }
+]
