@@ -36,6 +36,6 @@ jobs:
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add viral_posts.json
+          git add viral_posts_Version5.json
           git commit -m "Update viral posts $(date +'%Y-%m-%d')" || echo "No changes"
           git push
